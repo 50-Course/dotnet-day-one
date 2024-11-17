@@ -1,0 +1,15 @@
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/bin/Debug/net8.0/dotnet-day-one
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/bin/Debug/net8.0/dotnet-day-one.deps.json
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/bin/Debug/net8.0/dotnet-day-one.runtimeconfig.json
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/bin/Debug/net8.0/dotnet-day-one.dll
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/bin/Debug/net8.0/dotnet-day-one.pdb
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.GeneratedMSBuildEditorConfig.editorconfig
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.AssemblyInfoInputs.cache
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.AssemblyInfo.cs
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.csproj.CoreCompileInputs.cache
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.sourcelink.json
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.dll
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/refint/dotnet-day-one.dll
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.pdb
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/dotnet-day-one.genruntimeconfig.cache
+/home/erioluwa/personal/dotnet-day-one/dotnet-day-one/obj/Debug/net8.0/ref/dotnet-day-one.dll
